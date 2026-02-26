@@ -12,3 +12,27 @@
 --pale-sky: #b7d0e1ff;
 --light-gold: #f9f19fff;
 }
+
+.gentium-plus-regular {
+  font-family: "Gentium Plus", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gentium-plus-bold {
+  font-family: "Gentium Plus", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.gentium-plus-regular-italic {
+  font-family: "Gentium Plus", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.gentium-plus-bold-italic {
+  font-family: "Gentium Plus", serif;
+  font-weight: 700;
+  font-style: italic;
+}
